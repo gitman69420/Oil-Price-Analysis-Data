@@ -20,7 +20,7 @@
 - Individual RSP data for the years 19,20,21 (Present) for major Metro cities.
 - Unemployment.csv is Unemployment Data from 2019 to 2020
 
--processed-data folder contains the csv files of the data which has been cleaned  
+- processed-data folder contains the csv files of the data which has been cleaned  
 
 ## Phase 2 of project
 - Collection of more data.
