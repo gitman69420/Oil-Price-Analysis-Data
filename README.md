@@ -25,6 +25,8 @@
 ## Phase 2 of project
 - Collection of more data.
 - Cleaning of the said data.
+- Data-organising.ipynb - the cleaning of datasets and merging dataframes
+- Visualisation and analytics.ipynb - visualization of and correlation of the cleaned data
 
 ## Phase 3
 - Processing the data into meaningful outputs and visualisations
