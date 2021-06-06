@@ -18,8 +18,9 @@
 - brentOILprices.csv has the oil prices indices that specify the cost per barrel internationally.
 - GDP_INDIA.csv is the official RBI data that has the sectorwise GDP growth of the country per quater for the decade 2010-20
 - Individual RSP data for the years 19,20,21 (Present) for major Metro cities.
-- New.Csv is the processed data that has all the dates converted into a format that can be recognised by Pandas.
 - Unemployment.csv is Unemployment Data from 2019 to 2020
+
+-processed-data folder contains the csv files of the data which has been cleaned  
 
 ## Phase 2 of project
 - Collection of more data.
